@@ -1,2 +1,11 @@
-# Work Day Scheduler Starter Code
-# Work-Day
+# Work Day Scheduler
+
+## Details
+
+- An application allowing you to save events that are then color coded based on the events time.
+
+## Usage
+
+- Use to keep track of daily tasks.
+
+![alt text] (https://github.com/ileachy/Work-Day/blob/main.image.jpg?raw=true)
