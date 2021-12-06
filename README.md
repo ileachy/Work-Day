@@ -9,3 +9,6 @@
 - Use to keep track of daily tasks.
 
 ![alt text] (https://github.com/ileachy/Work-Day/blob/main.image.jpg?raw=true)
+
+Repository: https://github.com/ileachy/Work-Day
+Pages: https://ileachy.github.io/Work-Day/
